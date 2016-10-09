@@ -1,0 +1,94 @@
+*{
+  margin: 0;
+}
+
+
+html, body{
+  height: 100%;
+}
+
+.sect1{
+  height: 100%;
+
+}
+.sect2{
+  height: 100%;
+  background-color: #ECF0F1;
+
+}
+.sect3{
+ height: 10%;
+ background-color: white;
+}
+.sect4{
+  height:100%;
+  background-color: #ECF0F1;
+}
+
+.carousel-inner > .item > img{
+   width:100%;
+   height:600px;
+}
+img.koko{
+  position: relative;
+  left: 500px;
+  height: 150px;
+
+}
+p.service{
+  font-size: 17px;
+  font-family: 'Playfair Display SC', serif;
+  color: #717D7E;
+}
+img.bed{
+  height: 600px;
+  width: 840px;
+  position: relative;
+  left: 100px;
+  bottom: 80px;
+
+}
+img.beach{
+  height: 600px;
+  width: 800px;
+  position: relative;
+  top: 30px;
+}
+h3.ocean{
+  position: relative;
+  left: 930px;
+  bottom: 540px;
+  font-family: 'Playfair Display SC', serif;
+  font-weight: bold;
+  color: #717D7E;
+}
+p.accomo{
+  position: relative;
+  left: 840px;
+  bottom: 500px;
+  font-size: 17px;
+  font-family: 'Playfair Display SC', serif;
+  color: #717D7E;
+}
+.btn.outline {
+	background: none;
+	padding: 12px 22px;
+}
+.btn-primary.outline {
+	border: 2px solid #839192;
+	color: #839192;
+}
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+	color: #33a6cc;
+	border-color: #33a6cc;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+	border-color: #007299;
+	color: #007299;
+	box-shadow: none;
+}
+button{
+  position: relative;
+  left: 950px;
+  bottom: 450px;
+}
