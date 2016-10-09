@@ -312,3 +312,11 @@ p.line{
   height: 50%;
   background-color: white;
 }
+h1.connect{
+  color: #717D7E;
+}
+p.number{
+  color: #717D7E;
+  font-size: 15px;
+  font-weight: bold;
+}
